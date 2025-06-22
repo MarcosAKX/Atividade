@@ -1,3 +1,4 @@
 - Limpar a corrente
 - Lavar a moto
 - Encerar e restaurar os plásticos
+- Revisar código
